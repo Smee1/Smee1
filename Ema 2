@@ -1,0 +1,14 @@
+
+Pearce 
+Project requirements 
+This project is to write and show our understanding of code in relation to password security for a queen’s medical centre using asmis appointment system. This line of code makes sure that the passwords are strong to prevent brute force hacking. By making a min of 8 characters and a symbol. This makes the password strong and much harder to hack into. As well add a multifactor authentication.
+
+The reason  of code 
+Passwords must be strong as medical history are worth around $200 per person. Medical histories are targets of being hacked as most medical centres are using outdated software and few cyber security specialists to protect from such attacks. This information can be sold onto third party’s which can thus be used for several illegal activities such as to blackmail a patient. 
+Paints can be victims of phishing attacks especially the elderly which many of these attacks focus. Therefore, the code has muti factor authentication to stop fishing attacks.
+
+The lines of code are in python which the asmis system must be coded in for this to be compatible.
+
+The state of the scripe 
+
+The scrip is short and not yet completed as it’s a proof of understanding  
