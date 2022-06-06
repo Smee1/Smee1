@@ -1,4 +1,4 @@
-Project requirements
+[Project requirements
 
 This project is to write and show my understanding of code in relation to password security for a Queen’s medical centre using ASMIS appointment system. This line of code makes sure that the passwords are strong to prevent brute-force hacking. By making the password a min of six characters, with a symbol as well as at least one upper and lower case letter, makes the password stronger. Therefore harder to hack into. By adding a multi-factor authentication method another level of security is added.
 
@@ -29,3 +29,4 @@ No author. (2021). Generate password in python. Available: https://stackoverflow
 pypi. (2022). bcrypt 3.2.2. Available: https://pypi.org/project/bcrypt/. Last accessed 4th June 2022.
 
 Stamenic, D. (2022). Hashing Passwords in Python with BCrypt. Available: https://stackabuse.com/hashing-passwords-in-python-with-bcrypt/. Last accessed 4th June 2022.
+](https://github.com/Smee1/final-ema-uplaod-1)
